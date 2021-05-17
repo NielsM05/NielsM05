@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NielsM05
-- 👀 I’m interested in making games and music
+- 👀 I’m interested in making Bots and music
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on making games
+- 💞️ I’m looking to collaborate on making Discord Bots
 - 📫 How to reach me @nielsm05 on instagram
 
 <!---
