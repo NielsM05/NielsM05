@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @NielsM05
-- 👀 I'm a Full stack Developer
-- 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on making websites and games
-- 📫 How to reach me @nielsm05 on instagram
+<a href="https://github.com/nielsm05/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nielsm05&count_private=true&show_icons=true&hide=contribs&theme=vue-dark " />
+</a>
+<a href="https://github.com/nielsm05/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielsm05&layout=compact&theme=vue-dark" />
+</a>
 
 <!---
 NielsM05/NielsM05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
