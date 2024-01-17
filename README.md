@@ -10,10 +10,14 @@
 
 <br>
 
+  <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=NielsM05&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+  <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=NielsM05&theme=vue-dark&hide_border=true' />
+
+
 <h3>The tools I like to work with</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,js,cs,css,discord,gitlab,github,mysql,nodejs,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,java,discord,git,gitlab,github,mysql,mongodb,nodejs" />
   </a>
 </p>
 
