@@ -11,7 +11,7 @@
 <br>
 
 <h3>The tools I like to work with</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,dotnet,cs,github,gitlab,git,mysql,mongodb,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,dotnet,cs,github,gitlab,git,mysql,mongodb,nodejs)](https://skillicons.dev)]
 
 
 
