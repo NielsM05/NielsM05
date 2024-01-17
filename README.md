@@ -3,7 +3,7 @@
 
 
 <a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+  <img src="https://raw.githubusercontent.com/NielsM05/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently studying at **HOWEST**
