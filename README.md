@@ -11,7 +11,11 @@
 <br>
 
 <h3>The tools I like to work with</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,dotnet,cs,github,gitlab,git,mysql,mongodb,nodejs)](https://skillicons.dev)]
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,js,cs,css,discord,gitlab,github,mysql,nodejs,mongodb" />
+  </a>
+</p>
 
 
 
