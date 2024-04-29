@@ -4,7 +4,7 @@
 
 
 - :office: &nbsp;I'm currently studying at **HOWEST**
-- :seedling: &nbsp;I’m currently working on my **[StellarNode]** [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/10do7.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+- :seedling: &nbsp;I’m currently working on at **[StellarNode]** [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/10do7.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 - :book: &nbsp;Learn more about my projects on my **[website]** 
 - :computer: &nbsp;Connect with me on **[LinkedIn]** 
 
