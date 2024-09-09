@@ -1,5 +1,5 @@
 <h1 align="left" id="nielsm">:wave: Hello there! I'm Niels Maes</h1>
-<h3 align="left">I am a student in Applied Computer Science and co-founder of StellarNode Hosting</h3>
+<h3 align="left">I am a student in Cyber Security and co-founder of StellarNode Hosting</h3>
 
 
 
