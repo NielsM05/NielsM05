@@ -12,6 +12,9 @@
 
   <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=NielsM05&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-NielsM05-blueviolet?logo=tryhackme)](https://tryhackme.com/p/NielsM05)
+
+
 
 <h3>The tools I like to work with</h3>
 <p align="left">
@@ -24,6 +27,6 @@
 
 <!-- links -->
 
-[website]: https://nielsm.be
+[website]: https://nielsm.xyz
 [StellarNode]: https://stellarnode.be
-[linkedin]: https://www.linkedin.com/in/nielsm05 "Jacob Colvin LinkedIn"
+[linkedin]: https://www.linkedin.com/in/nielsm05 "Niels Maes LinkedIn"
